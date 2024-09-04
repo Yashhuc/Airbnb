@@ -1,4 +1,4 @@
-# Airbnb Clone
+# Airbnb Clone - DjangoBNB
 
 This project is an Airbnb clone developed using Django for the backend and Next.js with TypeScript for the frontend. The project aims to replicate the core functionalities of Airbnb, including property listings, user authentication, and property management.
 
